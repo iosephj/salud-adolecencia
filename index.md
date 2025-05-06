@@ -1,7 +1,7 @@
 ---
-title: "Salud y Adolecencia"
+title: "Salud y Adolescencia (4to año)"
 autor: "José Juarez"
-version: "21/04/25"
+version: "01/04/25"
 ---
 
 <span hidden>Local path of the file: "H:/"</span>
@@ -19,9 +19,15 @@ version: "21/04/25"
 
 ## Guías de aprendizaje
 
-[1. Felicidad](01_felicidad_ted.html)
+- [1. Etapas de la vida (Visto con Alfredo)](01_vida_etapas.html)
 
-[2. Salud](02_salud.html)
+- [2. Pensando en mi futuro (Alternancia 1)](02_mi_futuro.html)
+
+- [3. La Felicidad](03_felicidad_ted.html)
+
+- [4. La salud (Alternancia 2)](04_salud.html)
+
+- [5. Derechos y obligaciones relacionados con la salud](05_salud_derecho.html)
 
 
 <span hidden>Fin archivo</span>
