@@ -29,6 +29,8 @@ version: "01/04/25"
 
 - [5. Derechos y obligaciones relacionados con la salud](05_salud_derecho.html)
 
+- [6. Sistema sanitario argentino en mi comunidad](06_sistema_salud.html) (Alternancia 3)
+
 
 <span hidden>Fin archivo</span>
 
